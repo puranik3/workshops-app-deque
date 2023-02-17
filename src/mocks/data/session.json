@@ -1,0 +1,11 @@
+{
+    "id": 6,
+    "workshopId": 2,
+    "sequenceId": 1,
+    "name": "Introduction to React JS",
+    "speaker": "Paul Smith",
+    "duration": 0.5,
+    "level": "Basic",
+    "abstract": "In this session you will learn about the basics of React JS",
+    "upvoteCount": 3
+}
